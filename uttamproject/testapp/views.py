@@ -1,4 +1,4 @@
-from django.shortcuts import redirect, render
+from django.shortcuts import render
 from . models import Work
 from . import forms
 from django.http import HttpResponseRedirect
