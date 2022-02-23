@@ -1,6 +1,3 @@
-from multiprocessing import context
-from pyexpat import model
-from attr import fields
 from django.shortcuts import redirect, render
 from . models import Work
 from . import forms
